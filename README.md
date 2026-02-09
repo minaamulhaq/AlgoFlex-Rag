@@ -236,7 +236,7 @@ ISC
 
 ## 👤 Author
 
-Mina Amulhaq
+Muhammad Inaam ul haq
 
 ## 🔗 Repository
 
